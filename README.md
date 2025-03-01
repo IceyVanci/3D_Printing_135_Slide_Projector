@@ -1,56 +1,52 @@
 # 3D_Printing_135_Slide_Projector
-这个项目旨在与使用简单的设计与制作成本，通过廉价的小尺寸FDM 3D打印机，制作简易的135胶片幻灯机。
 
-此项目中出现的镜头卡口数据来自网络。卡口设计专利归属于相机厂商。
+## 项目简介 | Project Overview
+本项目旨在通过简单的设计和低成本制作方案，使用廉价的小尺寸FDM 3D打印机制作简易的135胶片幻灯机。  
+This project aims to create an easy-to-assemble 135 film slide projector using affordable small-sized FDM 3D printers and minimal design complexity.
 
-所有的stl文件使用归属于Autodesk公司的TinkerCAD软件生成。
+---
 
+## 版权声明 | Copyright Notice
+- 镜头卡口数据来自公开网络，设计专利归属原相机厂商。  
+  Lens mount data is sourced from public domains, and design patents belong to their respective camera manufacturers.
+- 所有STL文件通过 **TinkerCAD (Autodesk)** 生成。  
+  All STL files are generated via **TinkerCAD (Autodesk)**.
 
-This project aims to utilize simple design and production costs to create an easy-to-assemble 135 film slide projector using an affordable small-sized FDM 3D printer. 
+---
 
-The lens mount data featured in this project is sourced from the internet. 
+## 组件说明 | Components
+- **A部分**：前面板支架 | *Part A*: Bracket for the front panel  
+- **B部分**：前面板与卡口 | *Part B*: Front panel and lens mount  
+- **C部分**：胶片面板 | *Part C*: Film panel  
+- **D部分**：光源盒子 | *Part D*: Light source housing  
 
-Lens mount design patents belong to their respective camera manufacturers.
+---
 
-STL files are generated via TinkerCAD (Autodesk). 
+## 组装指南 | Assembly Guide
+1. **打印组件**：根据需求选择并打印A/B/C/D部分的对应版本。  
+   **Print Components**: Select and print appropriate versions of Parts A/B/C/D.  
+2. **使用扎带固定**：参照参考文件组装，建议使用尼龙扎带加固。  
+   **Secure with Cable Ties**: Assemble components according to reference files, using cable ties for reinforcement.  
 
+---
 
-A部分为前面板支架，B部分为前面板与卡口，C部分为胶片面板，D部分为光源盒子。
+## 推荐配置 | Recommendations
+- **镜头卡口**：推荐使用 **Pentax-K卡口**（二手市场镜头价格低廉）。  
+  **Lens Mount**: **Pentax-K mount** is recommended due to affordable second-hand lenses.  
+- **光源适配**：D部分适配 **Ulanzi摄影灯**，其他尺寸光源需调整模型（未来版本可能更新）。  
+  **Light Source**: Part D fits **Ulanzi photography lights**; other sizes require model adjustments (possible in future updates).  
 
-在ABCD四个部分中选择适合自己的类型并进行打印，参照参考文件进行组装。
+---
 
-使用扎带进行组装。
+## 参考资源 | References
+- 项目视频演示：<https://www.bilibili.com/video/BV1mG4y1i73Q>  
+- 设计完成时间：2022年8月  
+Designed and completed in August 2022.
+For visual guidance, refer to the assembly video
+---
 
-推荐使用Pentax-K卡口，这一卡口的镜头在二手市场上足够便宜。
-
-D面板适配了Ulanzi的摄影灯，其他尺寸的迷你摄影灯需要更改一些模型尺寸。
-（或许我会在未来的更新中进行修改。）
-
-这一项目的设计完成与2022年8月，你可以参考视频https://www.bilibili.com/video/BV1mG4y1i73Q
-
-Assembly Guide:
-
-Part A: Bracket for the front panel.
-
-Part B: Front panel and lens mount.
-
-Part C: Film panel.
-
-Part D: Light source housing.
-
-Instructions:
-
-Select and print the appropriate versions of Parts A, B, C, and D based on your needs. Assemble them according to the reference files.
-
-Use cable ties for securing components during assembly.
-
-Recommended:
-
- The Pentax-K mount is advised due to the affordability of compatible lenses on the second-hand market.
-
-Note: 
-
-Part D is designed to fit Ulanzi photography lights. Miniature lights of other sizes may require adjustments to the model dimensions (modifications may be included in future updates).
-
-
-
+## 注意事项 | Notes
+- 专利声明：镜头卡口设计受厂商专利保护，本项目仅提供技术实现参考。  
+  **Patent Notice**: Lens mount designs are protected by manufacturers' patents. This project serves as a technical reference only.
+- 模型修改：非Ulanzi光源需自行调整D部分尺寸，或等待后续更新。  
+  **Model Modifications**: Adjust Part D dimensions for non-Ulanzi lights, or await future updates.
